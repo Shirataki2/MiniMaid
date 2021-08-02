@@ -3,7 +3,7 @@ sqlalchemy==1.4.11
 asyncpg==0.22.0
 numpy==1.20.2
 more-itertools==8.7.0
-emoji==1.2.0
+emoji==1.4.2
 alembic==1.5.8
 psycopg2==2.8.6
 feedparser==6.0.2
